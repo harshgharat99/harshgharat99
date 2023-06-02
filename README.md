@@ -1,4 +1,4 @@
-[![MasterHead](https://visme.co/blog/wp-content/uploads/2019/10/animated-presentation-software-header-wide.gif)]
+![MasterHead](https://visme.co/blog/wp-content/uploads/2019/10/animated-presentation-software-header-wide.gif)
 <h1 align="center">Hi There👋, I'm Harsh Gharat</h1>
 <h3 align="center">I'm a Data Scientist | Machine Learning Developer from India</h3>
 <img align="right" alt="Coding" width="400" src="https://indoanalytica.com/static/images/data-science-2.gif">
