@@ -1,3 +1,4 @@
+![Chrome Dino](https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/4ff07986208593.5d9a654e92f36.gif)
 ![MasterHead](https://visme.co/blog/wp-content/uploads/2019/10/animated-presentation-software-header-wide.gif)
 <h1 align="center">Hi There👋, I'm Harsh Gharat</h1>
 <h3 align="center">I'm a Data Scientist | Machine Learning Developer from India</h3>
@@ -34,4 +35,4 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=harshgharat99&show_icons=true&locale=en" alt="harshgharat99" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=harshgharat99&" alt="harshgharat99" /></p>
-![Chrome Dino](https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/4ff07986208593.5d9a654e92f36.gif)
+
