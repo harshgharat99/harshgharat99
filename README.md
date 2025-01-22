@@ -1,18 +1,18 @@
 ![Chrome Dino](https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/4ff07986208593.5d9a654e92f36.gif)
 ![MasterHead](https://visme.co/blog/wp-content/uploads/2019/10/animated-presentation-software-header-wide.gif)
 <h1 align="center">Hi There👋, I'm Harsh Gharat</h1>
-<h3 align="center">I'm a Data Scientist | Machine Learning Developer from India</h3>
+<h3 align="center">I'm a Data Scientist | Machine Learning Developer from Canada</h3>
 <img align="right" alt="Coding" width="400" src="https://indoanalytica.com/static/images/data-science-2.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=harshgharat99&label=Profile%20views&color=0e75b6&style=flat" alt="harshgharat99" /> </p>
 
 <p align="left"> <a href="https://twitter.com/harshgharat99" target="blank"><img src="https://img.shields.io/twitter/follow/harshgharat99?logo=twitter&style=for-the-badge" alt="harshgharat99" /></a> </p>
 
-- 🔭 I’m currently working on [Zadapaisa](https://zadapaisa.com/)
+- 🔭 I’m currently working as Freelancer on [Upwork]([https://zadapaisa.com/](https://www.upwork.com/freelancers/~017efb6b7c41fc0033?mp_source=share))
 
-- 🌱 I’m currently learning **Langchain**
+- 🌱 I’m currently learning **AI Agents**
 
-- 💬 Ask me about **Data Science , Machine Learning , Deep Learning**
+- 💬 Ask me about **Data Science , Machine Learning , Deep Learning, Langchain**
 
 - 📫 How to reach me **harshgharat99@gmail.com**
 
