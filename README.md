@@ -8,7 +8,7 @@
 
 <p align="left"> <a href="https://twitter.com/harshgharat99" target="blank"><img src="https://img.shields.io/twitter/follow/harshgharat99?logo=twitter&style=for-the-badge" alt="harshgharat99" /></a> </p>
 
-- 🔭 I’m currently working as Freelancer on [Upwork]
+- 🔭 I’m currently working as Freelancer at Upwork
 - 🌱 I’m currently learning **AI Agents**
 
 - 💬 Ask me about **Data Science , Machine Learning , Deep Learning, Langchain**
